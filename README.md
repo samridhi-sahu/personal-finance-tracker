@@ -9,7 +9,7 @@ The Personal Finance Tracker is a web-based application built using JavaScript, 
 1. JavaScript: Powers the application's logic and functionality.
 2. HTML: Provides the structure and markup of the web page.
 3. CSS: Styles the user interface for an appealing and user-friendly experience.
-3 Getting Started
+# Getting Started
 -> Clone the repository: git clone [repository URL]
 -> Open the project in your preferred code editor.
 -> Launch the index.html file in your web browser.
