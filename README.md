@@ -10,7 +10,7 @@ The Personal Finance Tracker is a web-based application built using JavaScript, 
 2. HTML: Provides the structure and markup of the web page.
 3. CSS: Styles the user interface for an appealing and user-friendly experience.
 # Getting Started
-1. Clone the repository: git clone [repository URL]
+1. Clone the repository: git clone [[repository URL](https://github.com/samridhi-sahu/personal-finance-tracker.git)]
 2. Open the project in your preferred code editor.
 3. Launch the index.html file in your web browser.
 4. Start adding your income and expense transactions.
